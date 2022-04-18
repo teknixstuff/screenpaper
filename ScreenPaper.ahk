@@ -1,5 +1,4 @@
 ﻿#NoTrayIcon
-Global Flags := {RawFlags:[]}
 If WinExist("AHK_Class Progman", "FolderView")
   SendMessage,0x052C
 hWorkerW := WinExist("AHK_Class WorkerW", "FolderView")
