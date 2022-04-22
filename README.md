@@ -3,8 +3,8 @@ Set a screensaver as your wallpaper
 
 [![GitHub release](https://img.shields.io/github/release/teknixstuff/screenpaper/all.svg)](https://github.com/screenpaper/screenpaper/releases)
 [![Github all releases](https://img.shields.io/github/downloads/teknixstuff/screenpaper/total.svg)](https://github.com/screenpaper/screenpaper/releases)
-[![GitHub stars](https://img.shields.io/github/stars/teknixstuff/screenpaper.svg)](https://github.com/rocksdanister/screenpaper/stargazers)
-[![Issues](https://img.shields.io/github/issues/teknixstuff/screenpaper.svg)](https://github.com/rocksdanister/screenpaper/issues)
+[![GitHub stars](https://img.shields.io/github/stars/teknixstuff/screenpaper.svg)](https://github.com/teknixstuff/screenpaper/stargazers)
+[![Issues](https://img.shields.io/github/issues/teknixstuff/screenpaper.svg)](https://github.com/teknixstuff/screenpaper/issues)
 
 ## Contents
 - [About](#about)
