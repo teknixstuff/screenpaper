@@ -23,4 +23,4 @@ Just drag a screensaver onto the screenpaper icon. That's it.
 [Autohotkey script](https://github.com/teknixstuff/screenpaper/releases/latest/download/screenpaper.ahk)
 
 ## License
-Screenpaper is licenced under the [MIT With Attribution](https://github.com/teknixstuff/screenpaper/blob/main/Licence) licence.
+Screenpaper is licenced under the [MIT](https://github.com/teknixstuff/screenpaper/blob/main/Licence) licence.
